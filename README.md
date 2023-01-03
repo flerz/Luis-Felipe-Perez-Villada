@@ -8,6 +8,7 @@ I'm a person who had his first approach with software development at school and 
   
 
 I have worked on an ecommerce project with people of different countries, adding features that would make the difference and would help to get a better UX.
+<br/>
 I developed a pokemon SPA since 0 where it's possible to sort them by name and attack points, filter them by their type and create/add new pokemons to the DB.  
   
 
