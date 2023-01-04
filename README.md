@@ -24,6 +24,12 @@ As I am currently looking for a job, I want to have the chance to earn job exper
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
+<br/>
+
+##E-mail
+
+pipefperez@gmail.com
+
 
 
 ### Frontend  
