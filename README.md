@@ -21,14 +21,16 @@ As I am currently looking for a job, I want to have the chance to earn job exper
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## E-mail
+
+pipefperez@gmail.com
 
 <br/>
 
-##E-mail
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-pipefperez@gmail.com
+
 
 
 
